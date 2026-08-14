@@ -1,8 +1,8 @@
 # Welcome! 
 
-## ⚠️ These study notes are based on the IIT (BHU) Varanasi MTech (Mine Environment) Programme: - 
+## These study notes are based on the IIT (BHU) Varanasi MTech (Mine Environment) Programme: - 
 
-### **Semester 1**
+### ✅ **Semester 1**
 
 1. **MN542: Geo-informatics**
 2. **MN552: Project Management**
