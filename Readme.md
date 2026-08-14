@@ -2,7 +2,7 @@
 
 ## These study notes are based on the IIT (BHU) MTech Programme: - 
 
-**Semester 1**
+### **Semester 1**
 
 1. **MN542: Geo-informatics**
 2. **MN552: Project Management**
