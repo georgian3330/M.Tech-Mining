@@ -1,6 +1,6 @@
 # Welcome! 
 
-## ⚠️ These study notes are based on the IIT (BHU) MTech Programme: - 
+## ⚠️ These study notes are based on the IIT (BHU) MTech (Mine Environment) Programme: - 
 
 ### **Semester 1**
 
