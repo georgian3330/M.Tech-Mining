@@ -1,6 +1,6 @@
 # Welcome! 
 
-## ⚠️ These study notes are based on the IIT (BHU) MTech (Mine Environment) Programme: - 
+## ⚠️ These study notes are based on the IIT (BHU) Varanasi MTech (Mine Environment) Programme: - 
 
 ### **Semester 1**
 
