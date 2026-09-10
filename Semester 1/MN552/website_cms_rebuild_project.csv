@@ -1,0 +1,22 @@
+Task Name,Description,Start Date,Due Date,Assignee,Section/Milestone,Priority,Status
+Draft Project Charter,"Outline high-level goals, benefits, constraints, and get initial approval and funding from the Project Sponsor.",2026-08-17,2026-08-19,Project Manager,1. Initiation,High,To Do
+Identify Stakeholders & Define Objectives,"Map out key stakeholders (Web Team, IT, Marketing) and define SMART project goals.",2026-08-20,2026-08-21,Project Manager,1. Initiation,Medium,To Do
+Conduct Project Kickoff Meeting,"Hold formal meeting to align the team, discuss roles, project scope, and set initial expectations.",2026-08-24,2026-08-24,Project Manager,1. Initiation,High,To Do
+Define Project Scope & Exclusions,Draft the Project Scope Statement. Document exact inclusions and exclusions to prevent scope creep.,2026-08-25,2026-08-27,Project Manager,2. Planning,High,To Do
+Research and Select CMS Platforms,"Evaluate potential CMS platforms based on speed, developer-friendliness, and page load optimization.",2026-08-28,2026-09-02,Lead Developer,2. Planning,Medium,To Do
+Establish Project Budget & Financial Controls,"Create a structured baseline budget, allocating licenses ($7k) and contingency reserves.",2026-09-03,2026-09-04,Project Manager,2. Planning,High,To Do
+Perform IT Security Audit & Contract Review,Conduct security reviews of the proposed CMS. Complete legal and contract reviews with vendors.,2026-09-07,2026-09-11,IT Security Analyst,2. Planning,High,To Do
+Develop WBS & Timeline in Gantt Chart,"Break down scope into manageable work packages, map task dependencies, and create Gantt schedule.",2026-09-14,2026-09-16,Project Manager,2. Planning,High,To Do
+Build Risk Register & Mitigation Plan,"Identify project risks (e.g., data loss, migration delay), assess impact, and document response plans.",2026-09-17,2026-09-18,Project Manager,2. Planning,Medium,To Do
+Set up Development Environment,Configure local and staging environments on the new CMS platform.,2026-09-21,2026-09-23,Lead Developer,3. Execution,High,To Do
+Backup Existing Website Database,Perform full site backup and secure raw data before initiating the database migration.,2026-09-24,2026-09-24,Lead Developer,3. Execution,High,To Do
+Migrate Content and Database to CMS,Complete core database and schema migration. Re-map static URLs to prevent broken links.,2026-09-25,2026-10-09,Lead Developer,3. Execution,High,To Do
+Design and Test New Page Templates,"Draft, build, and prototype customizable page templates using responsive UI designs.",2026-09-25,2026-10-08,UI/UX Designer,3. Execution,Medium,To Do
+Conduct Training for Content Writers,Develop user training guides and run live enablement sessions for content authors on the new CMS.,2026-10-12,2026-10-14,Content Manager,3. Execution,Medium,To Do
+Weekly Status Review & Variance Analysis,"Compare actual progress against project baseline. Track scope, schedule, and resource usage.",2026-09-21,2026-10-23,Project Manager,4. Monitoring & Controlling,Medium,To Do
+Track Key Performance Indicators (KPIs),"Monitor sprint velocities, migration error rates, and budget burn rate via central dashboard.",2026-09-21,2026-10-23,Project Manager,4. Monitoring & Controlling,Medium,To Do
+Review and Process Change Requests,"Manage incoming stakeholder requests, evaluate cost/schedule impact, and route through Change Control.",2026-09-21,2026-10-23,Project Manager,4. Monitoring & Controlling,Low,To Do
+Perform Final Quality Check & Speed Testing,"Execute comprehensive end-to-end testing, mobile optimization, and page speed tests.",2026-10-15,2026-10-19,QA Engineer,5. Closing,High,To Do
+Go-Live & DNS Cutover,Coordinate DNS propagation and push the new CMS live to production during off-peak hours.,2026-10-20,2026-10-20,Lead Developer,5. Closing,High,To Do
+Host Post-Mortem & Log Lessons Learned,"Gather team and stakeholders to review project performance, successes, and document lessons learned.",2026-10-21,2026-10-22,Project Manager,5. Closing,Medium,To Do
+Archive Project Documents & Final Sign-off,"Package project charter, baseline reports, and final deliverables. Secure formal sponsor sign-off.",2026-10-23,2026-10-23,Project Manager,5. Closing,Low,To Do
