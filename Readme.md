@@ -4,8 +4,9 @@
 
 ### ✅ **Semester 1**
 
-1. **MN542: Geo-informatics**
-2. **MN552: Project Management**
-3. **MN561: Operations Research**
-4. **MN572: Reliability Engineering**
-5. **MN573: Safey & Risk Management in Mines**
+1. **HS422: Language & Linguistics**
+2. **MN542: Geo-informatics**
+3. **MN552: Project Management**
+4. **MN561: Operations Research**
+5. **MN572: Reliability Engineering**
+6. **MN573: Safey & Risk Management in Mines**
